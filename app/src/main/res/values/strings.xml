@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tip</string>
+    <string name="tip_network_error">network error</string>
+    <string name="click_to_retry">click to retry</string>
+</resources>
